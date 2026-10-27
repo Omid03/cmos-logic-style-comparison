@@ -3,7 +3,7 @@
 .inc	'../models/32nm_bulk.txt'	32n
 *********************************Inverter*******************************
 .SUBCKT	INV	in	out
-M1	out	in	0	0	nmos	L=Lmin	W=Wpmos
+M1	out	in	0	0	nmos	L=Lmin	W=Wnmos
 M2	out	in	Vdin	Vdin	pmos	L=Lmin	W=Wpmos
 Vsupply	Vdin	0	vd
 .ENDS INV
