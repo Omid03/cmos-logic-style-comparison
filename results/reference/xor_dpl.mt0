@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='P-2019.06-SP1-1 win64' PARAM_COUNT=0
+.TITLE 'q2	dpl	xor/xnor'
+ tpd              out0avg          out0:1avg        out1:0avg       
+ temper           alter#          
+  4.431e-12        9.278e-08        1.658e-05        1.797e-05      
+   25.0000        1               

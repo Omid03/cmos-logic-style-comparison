@@ -1,0 +1,5 @@
+circuit,mosfet_count,selected_delay_ps,out0avg_nW,window_01_uW,window_10_uW,temperature_C
+mux_static,14,8.079,84.48,11.7,13.790000000000001,25.0
+mux_dynamic,10,23.02,88.8,7.458,6.433,25.0
+xor_dpl,12,4.431,92.78,16.580000000000002,17.97,25.0
+xor_dcvsl,12,28.77,70.53999999999999,11.8,10.950000000000001,25.0

@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='P-2019.06-SP1-1 win64' PARAM_COUNT=0
+.TITLE 'q1	mux2:1 dynamic cmos'
+ tpd1             out0avg          out0:1avg        out1:0avg       
+ temper           alter#          
+  2.302e-11        8.880e-08        7.458e-06        6.433e-06      
+   25.0000        1               
