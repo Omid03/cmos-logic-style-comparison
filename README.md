@@ -124,9 +124,6 @@ Some windows end before the output reaches its 50% crossing. For example, the dy
 | `results/sampled_waveforms.csv`                     | Selected samples used for state and stimulus checks       |
 | `docs/figures/`                                     | figures used above                                        |
 | `docs/evidence/`                                    | images including edge details and schematic illustrations |
-| `docs/technical-review.md`                          | Implementation and measurement findings                   |
-| `docs/listing-excerpts.md`                          | Archived measurements and simulator warnings              |
-| `docs/source-map.md`                                | Original-to-repository path mapping                       |
 | `scripts/run.sh`                                    | Batch runner for local HSPICE                             |
 | `runs/`                                             | Generated results, excluded from version control          |
 
